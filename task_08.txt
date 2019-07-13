@@ -1,0 +1,16 @@
+1)(2 < 3) && (3 > 4) || true
+true && false || true
+false || true
+true
+
+2)!true && (!true || 100 != 5 * 5)
+!true && (!true || true != false * false)
+true || true
+true
+
+
+
+("123" == 123) || ((10 <= 10) && ('' '' === false))
+(false) || ((true) && (true)
+false || true
+true
